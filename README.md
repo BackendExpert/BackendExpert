@@ -143,7 +143,7 @@ The previous all Projects can be found from [Jehankandy](https://github.com/Jeha
 
 # My new Stats
 
-<h1>My Stats</h1>
+
 <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> 
 
   
