@@ -139,6 +139,7 @@ The previous all Projects can be found form [Jehankandy](https://github.com/Jeha
 <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
  </span>
 
+<hr>
 
 # My Previous Stats
 
