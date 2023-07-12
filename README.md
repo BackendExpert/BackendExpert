@@ -181,3 +181,59 @@ The previous all Projects can be found form [Jehankandy](https://github.com/Jeha
     </td> 
   </tr>
 </table>  
+
+<hr>
+
+## My Previous Projects
+
+<h1>My Frameworks</h1>
+
+| Project        | Start Development | End Development | Project Status | Developers | Version | Status |
+| -------------- |:-----------------:| :--------------:| :-------------:| :---------:| :------:| :------:|
+| CSS Framework - [JKCSS](https://github.com/JKCSS/JKCSS-Framework) | May 8, 2023 | | Under Developing | [JehanKandy](https://github.com/JehanKandy) | v0.1.0 | Pre-release |
+
+<h1>My Web-Based Projects</h1>
+
+| Use Language | Frameworks |
+|:-------------:|:----------:|
+| PHP           |  Bootstrap |
+| Mysql         | Laravel    |
+| CSS           |            |
+| Javascript    |            |
+
+
+| Project        | Start Development | End Development | Project Status | Working Time | Developers |
+| -------------- |:-----------------:| :--------------:| :-------------:| :-----------:| :---------:|
+| [Online-ChatApp](https://github.com/JehanKandy/ChatApp)| 02 April 2023 |  | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/6ca3f31b-fc6d-484c-972b-1d2c0cb7b1f4.svg"></p> | [JehanKandy](https://github.com/JehanKandy) |
+| [Online-Clothings](https://github.com/JehanKandy/Online-Clothings) (Ordered)| 19 January 2023 |  | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/431b07de-a7ed-4337-bea8-9afa9ef1beb7.svg"></p> | [JehanKandy](https://github.com/JehanKandy) |
+| [JK Online Catering](https://github.com/JehanKandy/JK-Online-Catering-) | 17 January 2023 |  | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/445a548e-d717-4951-ac7b-5cb416e2ad33.svg"></p> | [JehanKandy](https://github.com/JehanKandy) |
+| [Online Job Appling System](https://github.com/JehanKandy/Online-Job-Apply-System) | 13 January 2023 |  | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/cc25b4ac-d6f6-463d-b423-cc1278cfcf24.svg"></p> | [JehanKandy](https://github.com/JehanKandy) |
+| [Online Selection Test Testing System](https://github.com/JehanKandy/Online-Selection-Test-System) | 02 January 2023 |  | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/290a29cf-e0e1-4228-a5fa-b8e0a7879b20.svg"></p> | [JehanKandy](https://github.com/JehanKandy) |
+| [Online Train Ticket Booking System](https://github.com/JehanKandy/Train-Ticket-Booking-System-) | 18 December 2022 | | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/67466c4b-ebc9-4e81-8250-db76db6d993a.svg"></p> |  [JehanKandy](https://github.com/JehanKandy) |
+| [Online GYM Management System](https://github.com/JehanKandy/GYM-Management-System) (Ordered) | 23 November 2022 | 17 December 2022 | Developed | |  [JehanKandy](https://github.com/JehanKandy) |
+| [Online Quize Project](https://github.com/JehanKandy/Online-Quiz-System) | 01 September 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
+| [Project Alpha](https://github.com/JehanKandy/Online-Vehicle-Registration-System) | 29 July 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
+| [Online Video Site System](https://github.com/JehanKandy/Online-Video-Site) | 3 July 2022 | 17 July 2022 | Developed | |  [JehanKandy](https://github.com/JehanKandy) |
+| [Online Campus Enrollment System](https://github.com/JehanKandy/Complete-Campus-Enrollment-System) | 11 June 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
+
+
+<h1>My Arduino libraries </h1>
+
+All libraries developed using C++ 
+
+
+| library        | View | library Description | Arduino Project Hub | Developers |
+| -------------- |:----:|:-------------------:|:-------------------:|:----------:|
+| Arduino Library for LED patterns | [View library](https://github.com/JehanKandy/Arduino-Library) | Arduino Basic library for LED patterns |  | [JehanKandy](https://github.com/JehanKandy) |
+| Arduino Bluetooth car Library | [View library](https://github.com/JehanKandy/Arduino-Bluetooth-car-Library) | Arduino Basic library for Control RC car using Bluetooth |  | [JehanKandy](https://github.com/JehanKandy) |
+
+
+<h1>Desktop Applications</h1>
+
+
+| Application    | link | Use Language | Application Description | Developers |
+| -------------- |:----:|:------------:|:-----------------------:|:----------:|
+| Web Browser | [link](https://github.com/JehanKandy/My-Own-Web-Browser-) | Python | Basic Web Browser using python and pyqt5 | [JehanKandy](https://github.com/JehanKandy) |
+| Web Browser VER 2 | [link](https://github.com/JehanKandy/Web-Browser-VER-2) | Python |  Basic Web Browser using python and pyqt5  | [JehanKandy](https://github.com/JehanKandy) |
+
+
