@@ -29,8 +29,6 @@ The previous all Projects can be found from [Jehankandy](https://github.com/Jeha
   </tr>
 </table>
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/JehanKandy.svg)](https://user-badge.committers.top/sri_lanka/JehanKandy)
-
 # My new Stats
 
 
