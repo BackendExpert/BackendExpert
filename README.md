@@ -152,3 +152,32 @@ The previous all Projects can be found form [Jehankandy](https://github.com/Jeha
 
 ![Metrics](https://metrics.lecoq.io/JehanKandy?template=classic&base.hireable=true&isocalendar=1&languages=1&lines=1&stars=1&habits=1&people=1&introduction=1&repositories=1&discussions=1&achievements=1&notable=1&activity=1&code=1&gists=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=5&lines.history.limit=1&stars=false&stars.limit=5&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=10&habits.languages.threshold=0%25&people=false&people.limit=50&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&repositories=false&repositories.pinned=5&repositories.starred=5&repositories.random=5&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=5&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&fortune=false&config.timezone=Asia%2FColombo&config.display=large)
  
+<img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> 
+
+  
+<table border="0">
+  <tr>    
+    <td>
+<img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+    </td>
+    <td>
+       <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jehankandy&theme=blue-green">
+      </div>
+    </td>  
+  </tr>
+  
+  <tr>
+     <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehanKandy&theme=github_dark"/>
+    </td>
+  </tr>
+  <tr>
+      <td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jehankandy&theme=github_dark"/>
+    </td>
+      <td align = "center">      
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jehankandy&theme=github_dark"/>
+    </td> 
+  </tr>
+</table>  
