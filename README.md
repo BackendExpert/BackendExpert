@@ -141,6 +141,41 @@ The previous all Projects can be found from [Jehankandy](https://github.com/Jeha
 
 <hr>
 
+# My new Stats
+
+<h1>My Stats</h1>
+<img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> 
+
+  
+<table border="0">
+  <tr>    
+    <td>
+<img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+    </td>
+    <td>
+       <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jehankandy&theme=blue-green">
+      </div>
+    </td>  
+  </tr>
+  
+  <tr>
+     <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehanKandy&theme=github_dark"/>
+    </td>
+  </tr>
+  <tr>
+      <td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jehankandy&theme=github_dark"/>
+    </td>
+      <td align = "center">      
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jehankandy&theme=github_dark"/>
+    </td> 
+  </tr>
+</table> 
+
+<hr>
+
 # My Previous Stats
 
 <h4>
