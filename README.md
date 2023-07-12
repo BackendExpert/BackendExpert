@@ -31,6 +31,39 @@ The previous all Projects can be found from [Jehankandy](https://github.com/Jeha
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/JehanKandy.svg)](https://user-badge.committers.top/sri_lanka/JehanKandy)
 
+# My new Stats
+
+
+<img src="https://komarev.com/ghpvc/?username=BackendExpert&label=Views&color=blue&style=plastic" alt="iampawan" /> 
+
+  
+<table border="0">
+  <tr>    
+    <td>
+<img src="https://github-readme-stats.vercel.app/api?username=BackendExpert&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+    </td>
+    <td>
+       <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BackendExpert&theme=blue-green">
+      </div>
+    </td>  
+  </tr>
+  
+  <tr>
+     <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BackendExpert&theme=github_dark"/>
+    </td>
+  </tr>
+  <tr>
+      <td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BackendExpert&theme=github_dark"/>
+    </td>
+      <td align = "center">      
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BackendExpert&theme=github_dark"/>
+    </td> 
+  </tr>
+</table> 
+
 <a href="https://app.daily.dev/jehankandy"><img align="right" src="https://api.daily.dev/devcards/fa7dd7268a2c4018a6ad67364f07efb3.png?r=30a" width="400" alt="JehanKandy's Dev Card"/></a>
  
 <h5>Languages</h5>
@@ -138,41 +171,6 @@ The previous all Projects can be found from [Jehankandy](https://github.com/Jeha
 <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
 <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
  </span>
-
-<hr>
-
-# My new Stats
-
-
-<img src="https://komarev.com/ghpvc/?username=BackendExpert&label=Views&color=blue&style=plastic" alt="iampawan" /> 
-
-  
-<table border="0">
-  <tr>    
-    <td>
-<img src="https://github-readme-stats.vercel.app/api?username=BackendExpert&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-    </td>
-    <td>
-       <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BackendExpert&theme=blue-green">
-      </div>
-    </td>  
-  </tr>
-  
-  <tr>
-     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BackendExpert&theme=github_dark"/>
-    </td>
-  </tr>
-  <tr>
-      <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BackendExpert&theme=github_dark"/>
-    </td>
-      <td align = "center">      
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BackendExpert&theme=github_dark"/>
-    </td> 
-  </tr>
-</table> 
 
 <hr>
 
