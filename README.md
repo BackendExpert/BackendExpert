@@ -8,7 +8,6 @@ The previous all Projects can be found from [Jehankandy](https://github.com/Jeha
 
 </b>
 
-
 <table border="0">
   <tr>
     <td><p><img src="https://avatars.githubusercontent.com/u/89431184?v=4" style="width:200px;"></p></td>
