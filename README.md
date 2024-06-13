@@ -4,8 +4,6 @@
 
 
 
-
-
   
 This is my new Github Account The [Jehankandy](https://github.com/JehanKandy) is problem with login because of that I create this new account
 The previous all Projects can be found from [Jehankandy](https://github.com/JehanKandy)
