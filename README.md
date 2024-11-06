@@ -174,22 +174,21 @@ The previous all Projects can be found from [Jehankandy](https://github.com/Jeha
 
 
 
- <h1>My Frameworks</h1>
+ <h1>My Top Projects</h1>
 
 | Project        | Start Development | End Development | Project Status | Developers | Version | Status |
 | -------------- |:-----------------:| :--------------:| :-------------:| :---------:| :------:| :------:|
-| CSS Framework - [JKCSS](https://github.com/JKCSS/JKCSS-Framework)  [JKCSS](https://github.com/JKCSS-CSS-Framework) | May 8, 2023 | | Under Developing | [JehanKandy](https://github.com/BackendExpert) [JehanKandy](https://github.com/JehanKandy) | v6.0.0 | Production-release |
-
+| SouthAsian First CSS Framework - [JKCSS](https://github.com/JKCSS/JKCSS-Framework)  [JKCSS](https://github.com/JKCSS-CSS-Framework) | May 8, 2023 | | Under Developing | [JehanKandy](https://github.com/BackendExpert) [JehanKandy](https://github.com/JehanKandy) | v6.0.0 | Production-release |
 | ReactJS Support CSS Framework - [React-JKCSS](https://github.com/React-JKCSS) | April, 2024 | | Under Developing | [JehanKandy](https://github.com/BackendExpert) | v1.2.0 | Production-release |
-
 | Icon Framework - [JKReact Icons](https://github.com/JKReact-Icons) | April, 2024 | | Under Developing | [JehanKandy](https://github.com/BackendExpert) | v1.1.0 | Production-release |
+| SouthAsian First GitPlatform  |  October 20, 2024 | | Under Developing | [JehanKandy](https://github.com/BackendExpert) | v0.1.0-alpha | Pre-release |
 
 <h1>My Web-Based Projects</h1>
 
-| Use Language | Frameworks | runtime environment | DataBase |
-|:-------------:|:----------:| :-----------------:| :-----------------:|
-| PHP           |  Bootstrap | NodeJS             | Mysql |
-| CSS           |  Laravel   |                    | MongoDB |
-| Javascript    |  TailwindCSS  |
-
+| Use Language | Frameworks | runtime environment | DataBase | Development Stack | JavaScript library |
+|:-------------:|:----------:| :-----------------:| :-----------------:| :-----------------:| :-----------------:|
+| Javascript    |  TailwindCSS | NodeJS             | MongoDB | MERN | ReactJS
+| PHP           |  Bootstrap   |                    | MySQL |
+|               | Express JS   |                    |        |
+|               | VueJS        |
 
