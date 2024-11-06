@@ -172,99 +172,24 @@ The previous all Projects can be found from [Jehankandy](https://github.com/Jeha
 
 <hr>
 
-# My Previous Stats
 
-<h4>
-  
-  Account : 
-  [JehanKandy](https://github.com/JehanKandy)
-  
-</h4>
 
-![Metrics](https://metrics.lecoq.io/JehanKandy?template=classic&base.hireable=true&isocalendar=1&languages=1&lines=1&stars=1&habits=1&people=1&introduction=1&repositories=1&discussions=1&achievements=1&notable=1&activity=1&code=1&gists=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=5&lines.history.limit=1&stars=false&stars.limit=5&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=10&habits.languages.threshold=0%25&people=false&people.limit=50&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&repositories=false&repositories.pinned=5&repositories.starred=5&repositories.random=5&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=5&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&fortune=false&config.timezone=Asia%2FColombo&config.display=large)
- 
-<img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> 
-
-  
-<table border="0">
-  <tr>    
-    <td>
-<img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-    </td>
-    <td>
-       <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jehankandy&theme=blue-green">
-      </div>
-    </td>  
-  </tr>
-  
-  <tr>
-     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehanKandy&theme=github_dark"/>
-    </td>
-  </tr>
-  <tr>
-      <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jehankandy&theme=github_dark"/>
-    </td>
-      <td align = "center">      
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jehankandy&theme=github_dark"/>
-    </td> 
-  </tr>
-</table>  
-
-<hr>
-
-## My Previous Projects
-
-<h1>My Frameworks</h1>
+ <h1>My Frameworks</h1>
 
 | Project        | Start Development | End Development | Project Status | Developers | Version | Status |
 | -------------- |:-----------------:| :--------------:| :-------------:| :---------:| :------:| :------:|
-| CSS Framework - [JKCSS](https://github.com/JKCSS/JKCSS-Framework) | May 8, 2023 | | Under Developing | [JehanKandy](https://github.com/JehanKandy) | v0.1.0 | Pre-release |
+| CSS Framework - [JKCSS](https://github.com/JKCSS/JKCSS-Framework)  [JKCSS](https://github.com/JKCSS-CSS-Framework) | May 8, 2023 | | Under Developing | [JehanKandy](https://github.com/BackendExpert) [JehanKandy](https://github.com/JehanKandy) | v6.0.0 | Production-release |
+
+| ReactJS Support CSS Framework - [React-JKCSS](https://github.com/React-JKCSS) | April, 2024 | | Under Developing | [JehanKandy](https://github.com/BackendExpert) | v1.2.0 | Production-release |
+
+| Icon Framework - [JKReact Icons](https://github.com/JKReact-Icons) | April, 2024 | | Under Developing | [JehanKandy](https://github.com/BackendExpert) | v1.1.0 | Production-release |
 
 <h1>My Web-Based Projects</h1>
 
-| Use Language | Frameworks |
-|:-------------:|:----------:|
-| PHP           |  Bootstrap |
-| Mysql         | Laravel    |
-| CSS           |            |
-| Javascript    |            |
-
-
-| Project        | Start Development | End Development | Project Status | Working Time | Developers |
-| -------------- |:-----------------:| :--------------:| :-------------:| :-----------:| :---------:|
-| [Online-ChatApp](https://github.com/JehanKandy/ChatApp)| 02 April 2023 |  | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/6ca3f31b-fc6d-484c-972b-1d2c0cb7b1f4.svg"></p> | [JehanKandy](https://github.com/JehanKandy) |
-| [Online-Clothings](https://github.com/JehanKandy/Online-Clothings) (Ordered)| 19 January 2023 |  | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/431b07de-a7ed-4337-bea8-9afa9ef1beb7.svg"></p> | [JehanKandy](https://github.com/JehanKandy) |
-| [JK Online Catering](https://github.com/JehanKandy/JK-Online-Catering-) | 17 January 2023 |  | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/445a548e-d717-4951-ac7b-5cb416e2ad33.svg"></p> | [JehanKandy](https://github.com/JehanKandy) |
-| [Online Job Appling System](https://github.com/JehanKandy/Online-Job-Apply-System) | 13 January 2023 |  | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/cc25b4ac-d6f6-463d-b423-cc1278cfcf24.svg"></p> | [JehanKandy](https://github.com/JehanKandy) |
-| [Online Selection Test Testing System](https://github.com/JehanKandy/Online-Selection-Test-System) | 02 January 2023 |  | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/290a29cf-e0e1-4228-a5fa-b8e0a7879b20.svg"></p> | [JehanKandy](https://github.com/JehanKandy) |
-| [Online Train Ticket Booking System](https://github.com/JehanKandy/Train-Ticket-Booking-System-) | 18 December 2022 | | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/67466c4b-ebc9-4e81-8250-db76db6d993a.svg"></p> |  [JehanKandy](https://github.com/JehanKandy) |
-| [Online GYM Management System](https://github.com/JehanKandy/GYM-Management-System) (Ordered) | 23 November 2022 | 17 December 2022 | Developed | |  [JehanKandy](https://github.com/JehanKandy) |
-| [Online Quize Project](https://github.com/JehanKandy/Online-Quiz-System) | 01 September 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
-| [Project Alpha](https://github.com/JehanKandy/Online-Vehicle-Registration-System) | 29 July 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
-| [Online Video Site System](https://github.com/JehanKandy/Online-Video-Site) | 3 July 2022 | 17 July 2022 | Developed | |  [JehanKandy](https://github.com/JehanKandy) |
-| [Online Campus Enrollment System](https://github.com/JehanKandy/Complete-Campus-Enrollment-System) | 11 June 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
-
-
-<h1>My Arduino libraries </h1>
-
-All libraries developed using C++ 
-
-
-| library        | View | library Description | Arduino Project Hub | Developers |
-| -------------- |:----:|:-------------------:|:-------------------:|:----------:|
-| Arduino Library for LED patterns | [View library](https://github.com/JehanKandy/Arduino-Library) | Arduino Basic library for LED patterns |  | [JehanKandy](https://github.com/JehanKandy) |
-| Arduino Bluetooth car Library | [View library](https://github.com/JehanKandy/Arduino-Bluetooth-car-Library) | Arduino Basic library for Control RC car using Bluetooth |  | [JehanKandy](https://github.com/JehanKandy) |
-
-
-<h1>Desktop Applications</h1>
-
-
-| Application    | link | Use Language | Application Description | Developers |
-| -------------- |:----:|:------------:|:-----------------------:|:----------:|
-| Web Browser | [link](https://github.com/JehanKandy/My-Own-Web-Browser-) | Python | Basic Web Browser using python and pyqt5 | [JehanKandy](https://github.com/JehanKandy) |
-| Web Browser VER 2 | [link](https://github.com/JehanKandy/Web-Browser-VER-2) | Python |  Basic Web Browser using python and pyqt5  | [JehanKandy](https://github.com/JehanKandy) |
+| Use Language | Frameworks | runtime environment | DataBase |
+|:-------------:|:----------:| :-----------------:| :-----------------:|
+| PHP           |  Bootstrap | NodeJS             | Mysql |
+| CSS           |  Laravel   |                    | MongoDB |
+| Javascript    |  TailwindCSS  |
 
 
